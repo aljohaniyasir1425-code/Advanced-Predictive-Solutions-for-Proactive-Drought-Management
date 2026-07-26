@@ -1,2 +1,2 @@
 # Advanced-Predictive-Solutions-for-Proactive-Drought-Management
-GeoAI platform for proactive drought prediction and management using satellite imagery, climate data, and machine learning.
+GeoAI platform for proactive drought prediction and management using satellite imagery, climate data, and machine learning...
